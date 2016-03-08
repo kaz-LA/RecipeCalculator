@@ -7,4 +7,4 @@ RecipeCalculator is a coding exercise for a Senior Developer position some where
 </ul> 
 Enjoy!!!
 
-<img src='screenshot.png' />
+<img src='screenshot.PNG' />
