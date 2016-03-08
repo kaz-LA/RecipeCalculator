@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Data>
+  <Settings>
+    <Setting name="Sales Tax" value="8.6" rounding="7" />
+    <Setting name="Discount" value="5.0" rounding="1" />
+  </Settings>
+  <AllIngredients>
+    <Ingredient category="Produce" unit="clove" organic="True" name="garlic" price="0.67"/>
+    <Ingredient category="Produce" unit="" name="lemon" price="2.03" />
+    <Ingredient category="Produce" unit="cup" name="corn" price="0.87" />
+    <Ingredient category="Meat/poultry" unit="" name="chicken breast" price="2.19" />
+    <Ingredient category="Meat/poultry" unit="slice" name="bacon" price="0.24" />
+    <Ingredient category="Pantry" unit="ounce" name="pasta" price="0.31" />
+    <Ingredient category="Pantry" unit="cup" organic="True" name="olive oil" price="1.92" />
+    <Ingredient category="Pantry" unit="cup" name="vinegar" price="1.26" />
+    <Ingredient category="Pantry" unit="teaspoon" name="salt" price="0.16" />
+    <Ingredient category="Pantry" unit="teaspoon" name="pepper" price="0.17" />
+  </AllIngredients>
+  <Recipes>
+    <Recipe name="Recipe1">
+      <Ingredients>
+        <Ingredient name="garlic" quantity="1"/>
+        <Ingredient name="lemon" quantity="1"/>
+        <Ingredient name="olive oil" quantity="0.75"/>
+        <Ingredient name="salt" quantity="0.75"/>
+        <Ingredient name="pepper" quantity="0.5"/>
+      </Ingredients>
+    </Recipe>
+    <Recipe name="Recipe2">
+      <Ingredients>
+        <Ingredient name="garlic" quantity="1"/>
+        <Ingredient name="chicken breast" quantity="4"/>
+        <Ingredient name="olive oil" quantity="0.5"/>
+        <Ingredient name="vinegar" quantity="0.5"/>
+      </Ingredients>
+    </Recipe>
+    <Recipe name="Recipe3">
+      <Ingredients>
+        <Ingredient name="garlic" quantity="1"/>
+        <Ingredient name="corn" quantity="4"/>
+        <Ingredient name="bacon" quantity="4"/>
+        <Ingredient name="pasta" quantity="8"/>
+        <Ingredient name="olive oil" quantity="0.33333"/>
+        <Ingredient name="salt" quantity="1.25"/>
+        <Ingredient name="pepper" quantity="0.75"/>
+      </Ingredients>
+    </Recipe>
+  </Recipes>
+</Data>
