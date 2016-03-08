@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecipeCalculator.UI", "RecipeCalculator\RecipeCalculator.UI.csproj", "{91F75305-0246-4D27-A533-773EC50AE253}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecipeCalculator.Model", "RecipeCalculator.Model\RecipeCalculator.Model.csproj", "{FACE8CD2-D24C-4495-AEA4-779FB0F194B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecipeCalculator.Tests", "RecipeCalculatorTests\RecipeCalculator.Tests.csproj", "{216E5D41-4BDB-4465-96E0-C42E3CFA16EC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecipeCalculator.UI", "RecipeCalculator.UI\RecipeCalculator.UI.csproj", "{91F75305-0246-4D27-A533-773EC50AE253}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecipeCalculator.Tests", "RecipeCalculator.Tests\RecipeCalculator.Tests.csproj", "{216E5D41-4BDB-4465-96E0-C42E3CFA16EC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,14 +15,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{91F75305-0246-4D27-A533-773EC50AE253}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{91F75305-0246-4D27-A533-773EC50AE253}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{91F75305-0246-4D27-A533-773EC50AE253}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{91F75305-0246-4D27-A533-773EC50AE253}.Release|Any CPU.Build.0 = Release|Any CPU
 		{FACE8CD2-D24C-4495-AEA4-779FB0F194B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{FACE8CD2-D24C-4495-AEA4-779FB0F194B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FACE8CD2-D24C-4495-AEA4-779FB0F194B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FACE8CD2-D24C-4495-AEA4-779FB0F194B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91F75305-0246-4D27-A533-773EC50AE253}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91F75305-0246-4D27-A533-773EC50AE253}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91F75305-0246-4D27-A533-773EC50AE253}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91F75305-0246-4D27-A533-773EC50AE253}.Release|Any CPU.Build.0 = Release|Any CPU
 		{216E5D41-4BDB-4465-96E0-C42E3CFA16EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{216E5D41-4BDB-4465-96E0-C42E3CFA16EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{216E5D41-4BDB-4465-96E0-C42E3CFA16EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
