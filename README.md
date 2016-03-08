@@ -6,6 +6,8 @@ RecipeCalculator is a coding exercise for a Senior Developer position some where
  <li>RecipeCalculator.Tests - unit testing project containing a few tests for the RecipeCalculator in the Model </li>
 </ul> 
 
+<p>It's developed in Visual Studio 2015 on MS Surface Pro 3 running Windows 10.</p>
+
 <h3>Notable Design Patterns </h3>
 <ul>
  <li>MVVM/MVC - the solution as a whole is a minimalistic MVVM</li>
